@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "Teclado mecânico", "category": "Periféricos", "price": 249.9, "quantity": 12 },
+    { "id": 2, "name": "Mouse sem fio", "category": "Periféricos", "price": 89.9, "quantity": 25 },
+    { "id": 3, "name": "Monitor 24 polegadas", "category": "Monitores", "price": 899.0, "quantity": 7 },
+    { "id": 4, "name": "Webcam HD", "category": "Acessórios", "price": 159.5, "quantity": 0 }
+  ]
+}
